@@ -56,6 +56,9 @@
 		A79017AE27FD1F2900D1E316 /* talent-exchange */ = {
 			isa = PBXGroup;
 			children = (
+				A79017C227FD2A9E00D1E316 /* Resources */,
+				A79017C127FD2A7900D1E316 /* Models */,
+				A79017C027FD256000D1E316 /* Views */,
 				A79017AF27FD1F2900D1E316 /* talent_exchangeApp.swift */,
 				A79017B127FD1F2900D1E316 /* ContentView.swift */,
 				A79017B327FD1F2A00D1E316 /* Assets.xcassets */,
@@ -70,6 +73,27 @@
 				A79017B627FD1F2A00D1E316 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A79017C027FD256000D1E316 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A79017C127FD2A7900D1E316 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		A79017C227FD2A9E00D1E316 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
