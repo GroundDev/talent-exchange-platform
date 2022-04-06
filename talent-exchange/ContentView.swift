@@ -13,6 +13,11 @@ struct ContentView: View {
             .padding()
         
         // 이렇게 수정을 하면 수정한 부분이 추적됩니다!
+        
+        
+        // 이건 feat1입니다.
+        Text("feat1")
+        
     }
 }
 
