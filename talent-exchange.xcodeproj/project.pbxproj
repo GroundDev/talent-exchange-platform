@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		155B1C9427FD392C00D90CCE /* feature_Grizzly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 155B1C9327FD392C00D90CCE /* feature_Grizzly.swift */; };
 		A79017B027FD1F2900D1E316 /* talent_exchangeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79017AF27FD1F2900D1E316 /* talent_exchangeApp.swift */; };
 		A79017B227FD1F2900D1E316 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79017B127FD1F2900D1E316 /* ContentView.swift */; };
 		A79017B427FD1F2A00D1E316 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A79017B327FD1F2A00D1E316 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		155B1C9327FD392C00D90CCE /* feature_Grizzly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feature_Grizzly.swift; sourceTree = SOURCE_ROOT; };
 		A79017AC27FD1F2900D1E316 /* talent-exchange.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "talent-exchange.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A79017AF27FD1F2900D1E316 /* talent_exchangeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = talent_exchangeApp.swift; sourceTree = "<group>"; };
 		A79017B127FD1F2900D1E316 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 		A79017C027FD256000D1E316 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				155B1C9327FD392C00D90CCE /* feature_Grizzly.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			files = (
 				A79017B227FD1F2900D1E316 /* ContentView.swift in Sources */,
 				A79017B027FD1F2900D1E316 /* talent_exchangeApp.swift in Sources */,
+				155B1C9427FD392C00D90CCE /* feature_Grizzly.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
