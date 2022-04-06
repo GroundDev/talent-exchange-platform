@@ -9,8 +9,10 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Moonshot")
             .padding()
+        
+        // 이렇게 수정을 하면 수정한 부분이 추적됩니다!
     }
 }
 
@@ -19,3 +21,4 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
