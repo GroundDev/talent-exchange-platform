@@ -21,6 +21,7 @@
 		A79017B327FD1F2A00D1E316 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A79017B627FD1F2A00D1E316 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A79017BD27FD1F7000D1E316 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		A79017BF27FD21C500D1E316 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,8 @@
 		A79017A327FD1F2900D1E316 = {
 			isa = PBXGroup;
 			children = (
+				A79017BF27FD21C500D1E316 /* README.md */,
+				A79017BD27FD1F7000D1E316 /* .gitignore */,
 				A79017AE27FD1F2900D1E316 /* talent-exchange */,
 				A79017AD27FD1F2900D1E316 /* Products */,
 			);
@@ -53,7 +56,6 @@
 		A79017AE27FD1F2900D1E316 /* talent-exchange */ = {
 			isa = PBXGroup;
 			children = (
-				A79017BD27FD1F7000D1E316 /* .gitignore */,
 				A79017AF27FD1F2900D1E316 /* talent_exchangeApp.swift */,
 				A79017B127FD1F2900D1E316 /* ContentView.swift */,
 				A79017B327FD1F2A00D1E316 /* Assets.xcassets */,
