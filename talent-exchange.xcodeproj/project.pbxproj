@@ -37,7 +37,6 @@
 		A79017A327FD1F2900D1E316 = {
 			isa = PBXGroup;
 			children = (
-				A79017BD27FD1F7000D1E316 /* .gitignore */,
 				A79017AE27FD1F2900D1E316 /* talent-exchange */,
 				A79017AD27FD1F2900D1E316 /* Products */,
 			);
@@ -54,6 +53,7 @@
 		A79017AE27FD1F2900D1E316 /* talent-exchange */ = {
 			isa = PBXGroup;
 			children = (
+				A79017BD27FD1F7000D1E316 /* .gitignore */,
 				A79017AF27FD1F2900D1E316 /* talent_exchangeApp.swift */,
 				A79017B127FD1F2900D1E316 /* ContentView.swift */,
 				A79017B327FD1F2A00D1E316 /* Assets.xcassets */,
